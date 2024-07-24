@@ -1,16 +1,11 @@
-# Hola 👋, soy [Nombre del profesional]
+# Hola 👋, soy Cristóbal Andrés Barrera Salinas
 
-Usa este espacio para presentarte y contar a la comunidad de GitHub cuál es tu experiencia, tus habilidades y tus objetivos profesionales.
-
-Puedes usar este espacio para incluir información sobre tu educación, tus certificaciones, tus proyectos, tus logros y tus metas profesionales.
-
-Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizarlo según tus necesidades y preferencias.
+Durante este Boot Camp, he desarrollado habilidades en el desarrollo Full Stack utilizando Ruby on Rails. En el frontend, he trabajado con HTML, CSS, JavaScript, Bootstrap para crear experiencias web dinámicas y atractivas. En el backend, he utilizado Ruby, Rails y PostgreSQL para construir aplicaciones web sólidas y escalables. Además, he dominado herramientas esenciales para el desarrollo web como VsCode, Git, GitHub, Heroku, Postman y Amazon S3. Además de las habilidades técnicas, he sido introducido a metodologías de trabajo colaborativo como Scrum, Kanban y Design Thinking, lo que me ha preparado para abordar proyectos de manera efectiva y creativa. También he recibido formación en la creación de un portafolio para mostrar mis proyectos y habilidades, así como en aspectos de emprendimiento y presentación a inversores para proyectos de startup.
 
 ## 📫 Contacto
 
-- Puedes contactarme a través de mi correo electrónico: **<example@gmail.com>**
-- Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/example)**
-- Puedes visitar mi **[sitio web](https://example.com)**
+- Puedes contactarme a través de mi correo electrónico: **cristobal.abs98@gmail.com**
+- Puedes contactarme a través de **https://www.linkedin.com/in/crist%C3%B3bal-andr%C3%A9s-barrera-salinas-911543195/**
 
 ### 🎨 Frontend
 
@@ -20,9 +15,6 @@ Puedes implementar el resumen de Linkedin en este espacio, o puedes personalizar
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Javascript](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📎 Herramientas
 
